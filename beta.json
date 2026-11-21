@@ -3,6 +3,11 @@
   "open": true,
   "revoked": [],
   "minVersion": "0.6.0",
-  "forms": {},
-  "download": "https://github.com/developer-carpet/today-check-releases/releases/latest"
+  "forms": {
+    "feedback": "https://docs.google.com/forms/d/e/1FAIpQLSeC8GYXAdIoj4181SyESfsRSlkc6UpgjzrOku9IG7TUUp4Tcw/viewform?usp=pp_url&entry.994964319={version}&entry.795850616={id}",
+    "week1": "https://docs.google.com/forms/d/e/1FAIpQLSd4CGQfr73_C2U1GLdLVLJCiCmnJFCy5FyAZHnb0QoWzj-wjQ/viewform?usp=pp_url&entry.1422814444={version}&entry.489827601={id}",
+    "week3": "https://docs.google.com/forms/d/e/1FAIpQLSeH1p83AxGv-zL5fvlvyIXlvWzvDuxlNR2L9qdHtcNAyYp7XA/viewform?usp=pp_url&entry.4565089={version}&entry.2045219276={id}"
+  },
+  "download": "https://github.com/developer-carpet/today-check-releases/releases/latest",
+  "updatedAt": "2026-11-21T11:17:33.987Z"
 }
